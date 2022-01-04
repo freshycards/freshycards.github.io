@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /images/services-3.jpg
+Disallow: /images/project-3.jpg
+Disallow: /images/header-background.jpg
+Disallow: /images/details-1-background.jpg
+Disallow: /images/meet-team
+Disallow: /images/smart
